@@ -1,4 +1,4 @@
-# 🌧 Rainfall Prediction App
+## 🌧 Rainfall Prediction App
 
 A machine learning web app that predicts whether **rainfall will occur or not** based on current weather conditions. Built using a **Random Forest Classifier** and deployed with **Streamlit**.
 
@@ -101,7 +101,7 @@ Cross-validation and hyperparameter tuning
 
 Add probability output or feature importance plots
 
-📬 Contact
+## 📬 Contact
 
 Author: Farhan Abid
 
