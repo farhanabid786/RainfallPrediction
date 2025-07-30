@@ -1,4 +1,3 @@
-# --- Finalized app.py for Rainfall Prediction ---
 import streamlit as st
 import pandas as pd
 import pickle
@@ -12,7 +11,6 @@ with open("rainfall_prediction_model.pkl", "rb") as f:
 model = model_data["model"]
 features = model_data["feature_names"]
 
-# Streamlit UI setup
 st.set_page_config(page_title="Rainfall Prediction", layout="centered")
 st.title("🌧 Rainfall Prediction")
 st.markdown("Provide today's weather information to predict whether there will be **rainfall or not**.")
