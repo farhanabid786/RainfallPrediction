@@ -104,5 +104,7 @@ Add probability output or feature importance plots
 📬 Contact
 
 Author: Farhan Abid
+
 Email: farhanabidclass12@gmail.com
+
 GitHub: farhanabid786
