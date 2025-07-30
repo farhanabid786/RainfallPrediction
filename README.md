@@ -24,3 +24,14 @@ A machine learning web app that predicts whether **rainfall will occur or not** 
   - `sunshine`
   - `winddirection`
   - `windspeed`
+
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/6q4NH1Gh/Screenshot-2025-07-30-214017.png)
+
+![App Screenshot](https://i.postimg.cc/kMGM6TDG/Screenshot-2025-07-30-214033.png)
+
+![App Screenshot](https://i.postimg.cc/bvYr6pYH/Screenshot-2025-07-30-214109.png)
+
+![App Screenshot](https://i.postimg.cc/VN76ppdy/Screenshot-2025-07-30-214137.png)
